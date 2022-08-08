@@ -1,0 +1,7 @@
+{
+  "name": "Autocentrum",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
